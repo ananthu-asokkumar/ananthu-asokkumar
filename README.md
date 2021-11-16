@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ananthu Asokkumar</h1>
 <h3 align="center">I'm a MERN stack developer who is passionate and dedicated in developing Full Stack applications .</h3>
 
-- 🔭 I’m currently working on **ixigo clone**
+- 🔭 I’m currently working on **Quora clone**
 
 - 🌱 I’m currently learning **React Js**
 
