@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthu-asokkumar" alt="ananthu-asokkumar" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript and Java**
+- 🌱 I’m currently learning **Java and Reactive Programming**
 
 - 📝 I regularly write articles on [https://medium.com/@ananthuasokkumar](https://medium.com/@ananthuasokkumar)
 
